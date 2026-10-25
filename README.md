@@ -22,7 +22,6 @@ Search the project for `[` to find these:
 | Placeholder | Where | What to put |
 |---|---|---|
 | `[BOOKING_LINK]` | `index.html`, 2 places (iframe `data-src` + "Book here" button) | Google Calendar appointment schedule URL. For the iframe, use the embed link, which ends in `?gv=true`. |
-| `[GOOGLE_REVIEWS_LINK]` | `index.html`, "Read all reviews" button | Bartlett Roofing's Google reviews URL |
 | `[GOOGLE_REVIEWS_EMBED]` | `index.html`, `#google-reviews` | Replace the placeholder `<p>` with the official Google reviews embed code. Don't add hand-written reviews. |
 | `[PHOTO_OF_BRYCEN]` | `index.html`, About section | Add `public/brycen.webp` (about 480x600, under 80 KB) and swap the placeholder div for the `<img>` tag shown in the comment |
 | `[ABOUT_BRYCEN_DETAILS]` | `index.html`, About section (HTML comment) | Optional extra background |
